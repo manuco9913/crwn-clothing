@@ -86,7 +86,7 @@ const SHOP_DATA = [
       {
         id: 13,
         name: 'Nike White AirForce',
-        imageUrl: 'https://i.ibb.co/mJS6vz0/blue-jean-jacket.png',
+        imageUrl: 'https://i.ibb.co/1RcFPk0/white-nike-high-tops.png',
         price: 160
       },
       {
@@ -135,7 +135,7 @@ const SHOP_DATA = [
       {
         id: 20,
         name: 'Grey Jean Jacket',
-        imageUrl: 'https://i.ibb.co/mJS6vz0/blue-jean-jacket.png',
+        imageUrl: 'https://i.ibb.co/N71k1ML/grey-jean-jacket.png',
         price: 90
       },
       {
@@ -160,31 +160,31 @@ const SHOP_DATA = [
       {
         id: 23,
         name: 'Blue Tanktop',
-        imageUrl: 'https://i.ibb.co/mJS6vz0/blue-jean-jacket.png',
+        imageUrl: 'https://i.ibb.co/7CQVJNm/blue-tank.png',
         price: 25
       },
       {
         id: 24,
         name: 'Floral Blouse',
-        imageUrl: 'https://i.ibb.co/mJS6vz0/blue-jean-jacket.png',
+        imageUrl: 'https://i.ibb.co/4W2DGKm/floral-blouse.png',
         price: 20
       },
       {
         id: 25,
         name: 'Floral Dress',
-        imageUrl: 'https://i.ibb.co/mJS6vz0/blue-jean-jacket.png',
+        imageUrl: 'https://i.ibb.co/KV18Ysr/floral-skirt.png',
         price: 80
       },
       {
         id: 26,
         name: 'Red Dots Dress',
-        imageUrl: 'https://i.ibb.co/mJS6vz0/blue-jean-jacket.png',
+        imageUrl: 'https://i.ibb.co/N3BN1bh/red-polka-dot-dress.png',
         price: 80
       },
       {
         id: 27,
         name: 'Striped Sweater',
-        imageUrl: 'https://i.ibb.co/mJS6vz0/blue-jean-jacket.png',
+        imageUrl: 'https://i.ibb.co/KmSkMbH/striped-sweater.png',
         price: 45
       },
       {
@@ -196,7 +196,7 @@ const SHOP_DATA = [
       {
         id: 29,
         name: 'White Blouse',
-        imageUrl: 'https://i.ibb.co/mJS6vz0/blue-jean-jacket.png',
+        imageUrl: 'https://i.ibb.co/qBcrsJg/white-vest.png',
         price: 20
       }
     ]
